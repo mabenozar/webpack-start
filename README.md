@@ -1,3 +1,12 @@
 # Webpack configurado
+### Notas:
+Reconstruir módulos de Node:
+```
+npm install
+````
 
-Para usar este repositorio, ejecutar comando ```npm install```
+Para construir el build :
+```
+npm run build
+````
+
